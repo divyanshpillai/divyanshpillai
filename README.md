@@ -7,6 +7,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=divyanshpillai&theme=dark&no-frame=false&no-bg=true&margin-w=4)
 
 # 💫 About Me:
+
 🔭 I’m currently working on Data Structure and Algorithms<br>🌱 I’m currently learning Machine Learning and Android Development<br>💬 Ask me about DSA, C++ and Python<br>📫 How to reach me divyanshpillai19@gmail.com
 
 
